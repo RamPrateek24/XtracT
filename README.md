@@ -7,6 +7,13 @@ It crawls documentation URLs, analyzes content hierarchy, and returns **structur
 
 ---
 
+## 🎥 Demo Video
+
+Approach explanation and working demo :  
+https://drive.google.com/file/d/1eNu6PjzKUk8zrrug1TCcOS07j650y-6d/view?usp=sharing
+
+---
+
 ## 🧠 Features
 
 - 🌐 Accepts one or more documentation URLs as input  
