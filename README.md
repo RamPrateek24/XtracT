@@ -5,6 +5,10 @@ XtracT is a Python-based system that automatically extracts **modules**, **submo
 
 It crawls documentation URLs, analyzes content hierarchy, and returns **structured JSON output** strictly derived from the documentation content.
 
+I have added download option and status bar additionally to enhance user experience.
+
+Note: I kept this repository public because I don’t have the collaborator’s user ID.
+
 ---
 
 ## 🎥 Demo Video
